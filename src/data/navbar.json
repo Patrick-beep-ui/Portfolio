@@ -1,0 +1,13 @@
+{
+    "page_links": [
+        { "name": "Home", "url": "/" },
+        { "name": "About", "url": "#about" },
+        { "name": "Experience", "url": "#experience" },
+        { "name": "Projects", "url": "#projects" }
+    ],
+    "social_links": [
+        {"name": "Email", "icon": "email", "url": "mailto:patrickresol@gmail.com"},
+        {"name": "Linkedin", "icon": "linkedin", "url": "https://www.linkedin.com/in/psolis18/"},
+        {"name": "Github", "icon": "github", "url": "https://github.com/Patrick-beep-ui"}
+    ]
+}

@@ -8,11 +8,11 @@
 
 :root {
   /* Colors */
-  --color-bg: #0f172a;
+  --color-bg: #1d2846;
   --color-surface: #020617;
   --color-text: #e5e7eb;
   --color-muted: #94a3b8;
-  --color-accent: #38bdf8;
+  --color-accent: #92ACFF;
 
   /* Typography */
   --font-main: system-ui, -apple-system, BlinkMacSystemFont,
