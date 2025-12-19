@@ -1,0 +1,30 @@
+{
+    "about_info": [
+        {
+            "title": "About me",
+            "description_1": "I’m a 21-year-old Software Engineering graduate from Keiser University, holding a Bachelor of Science in Software Engineering, originally from Masaya, Nicaragua. I enjoy building modern web applications that combine clean design with solid functionality, working comfortably on both the front end and the back end.",
+            "description_2": "I’m a fast learner who values teamwork, clear communication, and thoughtful problem-solving. I enjoy collaborating with others, taking initiative when needed, and continuously improving my skills through hands-on projects. Outside of coding, I like playing videogames, football and spending time with my friends and family, which helps me stay balanced and motivated.",    
+            "technologies": [
+                "React",
+                "Node.js",
+                "Express",
+                "Laravel",
+                "MySQL",
+                "Elementor"
+            ],
+            "soft_skills": [
+                "Team Working",
+                "Fast Learning",
+                "Effective Communication",
+                "Problem Solving",
+                "Leadership"
+            ]
+        }
+    ],
+    "about_img": [
+        {
+            "image_url": "/img/hollow_knight.webp",
+            "alt_text": "About Me"
+        }
+    ]
+}

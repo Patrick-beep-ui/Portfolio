@@ -71,3 +71,7 @@ img {
   margin: 0 auto;
   padding: 0 var(--space-sm);
 }
+
+.section {
+  padding: 80px 250px;
+}
