@@ -1,0 +1,17 @@
+{
+    "hero_content": [
+        {
+            "title": "Hi, I'm Patrick Solis",
+            "subtitle": "Turning ideas into reliable, high-quality software.",
+            "roles": ["Software Engineer", "Web Developer", "Tech Enthusiast", "Frontend Developer", "Backend Developer"],
+            "cta_text": "Get in Touch",
+            "cta_link": "mailto:patrickresol@gmail.com"
+        }
+    ],
+    "hero_image": [
+        {
+            "image_url": "/img/patrick_solis.webp",
+            "alt_text": "Patrick Solis"
+        }
+    ]
+}

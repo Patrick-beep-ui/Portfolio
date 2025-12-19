@@ -15,8 +15,10 @@
   --color-accent: #92ACFF;
 
   /* Typography */
-  --font-main: system-ui, -apple-system, BlinkMacSystemFont,
+  /*--font-main: system-ui, -apple-system, BlinkMacSystemFont,
     "Segoe UI", Roboto, Ubuntu, Cantarell, "Helvetica Neue", Arial;
+    */
+  --font-main: 'NTR', sans-serif;
 
   /* Spacing */
   --space-xs: 0.5rem;

@@ -1,5 +1,6 @@
 import Aurora from "./components/Aurora.jsx"
 import NavBar from "./components/Navbar.jsx"
+import Hero from "./components/Hero.jsx"
 
 function App() {
   return (
@@ -13,6 +14,7 @@ function App() {
 
       <main>
         <NavBar />
+        <Hero />
       </main>
     </>
   )
