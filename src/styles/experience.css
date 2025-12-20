@@ -1,0 +1,106 @@
+.experience-content {
+  display: flex;
+  gap: 40px;
+  margin-top: 40px;
+}
+
+.experience-tabs {
+  display: flex;
+  flex-direction: column;
+  min-width: 220px;
+}
+
+.experience-tab {
+  background: none;
+  border: none;
+  text-align: left;
+  padding: 10px 16px;
+  font-family: inherit;
+  font-size: 18px;
+  color: var(--slate);
+  cursor: pointer;
+  border-left: 2px solid transparent;
+}
+
+.experience-tab:hover {
+  background-color: rgba(100, 255, 218, 0.05);
+}
+
+.experience-tab.active {
+  color: var(--color-accent);
+  border-left: 4px solid var(--color-accent);
+}
+
+.experience-details {
+    transition: opacity 0.3s ease, transform 0.3s ease;
+  }
+  
+  .fade-in {
+    opacity: 1;
+    transform: translateY(0);
+  }
+  
+  .fade-out {
+    opacity: 0;
+    transform: translateY(10px);
+  }
+  
+
+.experience-details .experience-role {
+    margin-bottom: 40px;
+}
+
+.experience-details .role-title {
+    font-size: 30px;
+    font-weight: 600;
+    color: var(--color-text);
+}
+
+.experience-details .company {
+  color: var(--green-bright);
+}
+
+.experience-details .role-date {
+    margin-bottom: 20px;
+}
+
+.experience-details ul {
+  list-style: none;
+  padding-left: 0;
+}
+
+.experience-details li {
+  position: relative;
+  padding-left: 24px;
+  margin-bottom: 12px;
+  color: var(--color-muted);
+
+}
+
+.experience-details li::before {
+  content: "•";
+  position: absolute;
+  left: 0;
+  color: var(--color-accent);
+}
+
+/* Mobile */
+@media (max-width: 768px) {
+  .experience-content {
+    flex-direction: column;
+  }
+
+  .experience-tabs {
+    flex-direction: row;
+    overflow-x: auto;
+  }
+
+  .experience-tab {
+    border-left: none;
+    border-bottom: 2px solid transparent;
+  }
+
+  .experience-tab.active {
+    border-bottom: 2px solid var(--green-bright);
+  }
+}

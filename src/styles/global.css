@@ -75,3 +75,14 @@ img {
 .section {
   padding: 80px 250px;
 }
+
+.section-heading {
+  font-size: 3rem;
+  margin-bottom: 50px;
+}
+
+.text {
+  font-size: 1.2rem;
+  color: var(--color-text-muted);
+  line-height: 1.6;
+}

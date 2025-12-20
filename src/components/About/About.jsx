@@ -7,10 +7,10 @@ const About = () => {
         <section className="about-container section" id='about'>
             {about.about_info.map((section, index) => (
                 <div className='about-info'>
-                    <h2>{section.title}</h2>
-                    <p>{section.description_1}</p>
+                    <h2 className='section-heading'>{section.title}</h2>
+                    <p className='text'>{section.description_1}</p>
                     <Technologies technologies={section.technologies} />
-                    <p>{section.description_2}</p>
+                    <p className='text'>{section.description_2}</p>
                 </div>
             ))}
 

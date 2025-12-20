@@ -12,19 +12,8 @@
 }
 
 .about-info {
-    padding-right: 20px;
+    padding-right: 30px;
     width: 60%;
-}
-
-.about-info h2 {
-    font-size: 3rem;
-    margin-bottom: 50px;
-}
-
-.about-info p {
-    font-size: 1.2rem;
-    color: var(--color-text-muted);
-    line-height: 1.6;
 }
 
 .technologies {

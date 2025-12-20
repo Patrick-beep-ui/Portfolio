@@ -1,0 +1,66 @@
+{
+    "experience": [
+        {
+            "company": "Concentrix",
+            "position": "Microsoft Tech Support Agent",
+            "startDate": "June 2023",
+            "endDate": "August 2023",
+            "responsibilities": [
+                "Provided technical support for console and PC connectivity, hardware, and software issues.",
+                "Diagnosed and resolved problems to ensure seamless online gaming experiences.  ",
+                "Performed comprehensive troubleshooting to fix connectivity issues, optimize gaming performance, and enhance user satisfaction."
+            ]
+        },
+        {
+            "company": "Outlier AI",
+            "position": "Coder AI-Training",
+            "startDate": "October 2024",
+            "endDate": "December 2024",
+            "responsibilities": [
+                "Tested Multiple AI models applying advanced prompting and documented their responses rating them using a variety of metrics that were from efficiency, accuracy, documentation, among others. ",
+                "Employed a structured evaluation framework to measure model performance, specifically focusing on code generation in languages like Python and JavaScript.  ",
+                "By providing detailed feedback, I refined the models' responses, ensuring they met the required criteria and improving their overall accuracy."
+            ]
+        },
+        {
+            "company": "Colibri Searcher",
+            "position": "Web Developer",
+            "startDate": "May 2025",
+            "endDate": "August 2025",
+            "responsibilities": [
+                "Develop and maintain high-quality responsive websites for businesses in Puerto Rico, the Dominican Republic, and the U.S, primarily using WordPress with Elementor.",
+                "Build custom web components from scratch using semantic HTML, modern CSS (Flexbox, Grid), and JavaScript to deliver professional layouts with strong UX/UI focus.",
+                "Spearhead frontend code optimization by introducing efficient DOM manipulation, reusable components, and dynamic content rendering using JSON-based templating"
+            ]
+        },
+        {
+            "company": "Keiser University",
+            "roles": [
+              {
+                "department": "Writing Studio & Tutoring Center",
+                "position": "Lead Developer",
+                "startDate": "Jan 2025",
+                "endDate": "May 2025",
+                "responsibilities": [
+                  "Led the end-to-end development of the department's internal system, overseeing architecture, implementation, and deployment.",
+                  "Designed and developed the backend architecture using Node.js, Express.js, and MySQL.",
+                  "Developed frontend features using React.js with a focus on scalability and UX.",
+                  "Implemented desktop virtualization using Electron.js."
+                ]
+              },
+              {
+                "department": "Presidency Department",
+                "position": "Lead Developer",
+                "startDate": "Sep 2025",
+                "endDate": "Dec 2025",
+                "responsibilities": [
+                  "Led multiple full-stack projects integrating AI and LLM-powered workflows.",
+                  "Designed scalable Laravel backend systems with modular architecture.",
+                  "Built responsive React + TypeScript interfaces.",
+                  "Designed and optimized MySQL relational databases."
+                ]
+              }
+            ]
+          }
+    ]
+}
