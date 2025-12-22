@@ -1,0 +1,71 @@
+{
+    "title": "Projects",
+    "projects": [
+        {
+            "id": "tutoring-center-online",
+            "title": "Tutoring Center Online",
+            "description": "Multi-platform solution to automate and streamline tutoring session management across web, desktop, and mobile platforms. The system provides tailored experiences and handles session booking, user management, and profile  management for different user groups. The application includes data analysis features, such as administrative reports and KPI indicators for tutors. ",
+            "technologies": ["React", "Node.js", "Express", "MySQL"],
+            "categories": ["Full Stack"],
+            "media": {
+                "images": [
+                    "/img/projects/tco/login.webp",
+                    "/img/projects/tco/profile.webp",
+                    "/img/projects/tco/users.webp",
+                    "/img/projects/tco/calendar.webp",
+                    "/img/projects/tco/sessions_pool.webp"
+                ],
+                "videos": [
+                    "/img/projects/tco/Desktop.mp4"
+                ],
+                "cover" : "/img/projects/tco/login.webp"
+            },
+            "github": "https://github.com/Patrick-beep-ui/Tutoring_Center_System/",
+            "live": ""
+        },
+        {
+            "id": "kure-dsl",
+            "title": "KURE DSL",
+            "description": "A web application for managing tutoring sessions, student progress, and scheduling.",
+            "technologies": ["React", "Node.js", "Express", "MySQL"],
+            "categories": ["Full Stack", "Education"],
+            "media": {
+                "images": [
+                    "/img/projects/tco/login.webp",
+                    "/img/projects/tco/profile.webp",
+                    "/img/projects/tco/users.webp",
+                    "/img/projects/tco/calendar.webp",
+                    "/img/projects/tco/sessions_pool.webp"
+                ],
+                "videos": [
+                    "/img/projects/tco/Desktop.mp4"
+                ],
+                "cover" : "/img/projects/tco/login.webp"
+            },
+            "github": "",
+            "live": "https://tutoring-center.example.com"
+        },
+        {
+            "id": "kure-dsl",
+            "title": "KURE DSL",
+            "description": "A web application for managing tutoring sessions, student progress, and scheduling.",
+            "technologies": ["React", "Node.js", "Express", "MySQL"],
+            "categories": ["Full Stack", "Education"],
+            "media": {
+                "images": [
+                    "/img/projects/tco/login.webp",
+                    "/img/projects/tco/profile.webp",
+                    "/img/projects/tco/users.webp",
+                    "/img/projects/tco/calendar.webp",
+                    "/img/projects/tco/sessions_pool.webp"
+                ],
+                "videos": [
+                    "/img/projects/tco/Desktop.mp4"
+                ],
+                "cover" : "/img/projects/tco/login.webp"
+            },
+            "github": "",
+            "live": "https://tutoring-center.example.com"
+        }
+    ]
+}
