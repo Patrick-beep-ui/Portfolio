@@ -21,7 +21,7 @@ const ProjectCard = ({ project }) => {
         {/* Links */}
         <div className="project-links">
           {github && (
-            <a href={github} target="_blank" rel="noopener noreferrer">
+            <a href={github} target="_blank" rel="noopener noreferrer" id="github-link">
               <FaGithub />
             </a>
           )}

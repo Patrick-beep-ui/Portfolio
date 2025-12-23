@@ -1,13 +1,6 @@
 .projects-container {
  
 }
-  
-  .projects-grid {
-    margin-top: 50px;
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-    gap: 30px;
-  }
 
   .projects-filters {
     display: flex;
@@ -25,6 +18,7 @@
     color: var(--color-text);
     cursor: pointer;
     transition: all 0.25s ease;
+    
   }
   
   .filter-btn:hover {
@@ -37,7 +31,13 @@
     color: var(--color-bg);
     border-color: var(--color-accent);
   }
-  
+
+  .projects-grid {
+    margin-top: 50px;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 30px;
+  }
 
   .project-card {
     background-color: var(--color-surface);
@@ -93,6 +93,10 @@
     color: var(--color-accent);
   }
 
+  #github-link {
+    font-size: 1.1rem;
+  }
+
   .project-title {
     margin-top: 10px;
     font-size: 1.1rem;
@@ -140,7 +144,7 @@
   width: min(1000px, 90%);
   max-height: 90vh;
   border-radius: 16px;
-  padding: 20px;
+  padding: 35px;
   position: relative;
   display: flex;
   flex-direction: column;
@@ -149,8 +153,8 @@
 
 .gallery-close {
   position: absolute;
-  top: 16px;
-  right: 16px;
+  top: 5px;
+  right: 12px;
   background: none;
   border: none;
   font-size: 22px;

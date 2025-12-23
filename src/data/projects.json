@@ -26,46 +26,101 @@
         {
             "id": "kure-dsl",
             "title": "KURE DSL",
-            "description": "A web application for managing tutoring sessions, student progress, and scheduling.",
-            "technologies": ["React", "Node.js", "Express", "MySQL"],
-            "categories": ["Full Stack", "Education"],
+            "description": "Web application designed to manage university clinic operations such as consultations, medical conditions, medications, and inventory. It leverages a custom language designed specifically for this clinic domain to enforce domain rules and constraints, ensuring consistent, rule-driven behavior and easier policy updates.",
+            "technologies": ["React", "Typescript" ,"Laravel", "Python", "MySQL"],
+            "categories": ["Full Stack"],
             "media": {
                 "images": [
-                    "/img/projects/tco/login.webp",
-                    "/img/projects/tco/profile.webp",
-                    "/img/projects/tco/users.webp",
-                    "/img/projects/tco/calendar.webp",
-                    "/img/projects/tco/sessions_pool.webp"
+                    "/img/projects/kure/KURE_IDE.webp",
+                    "/img/projects/kure/Project_Structure.webp"
                 ],
                 "videos": [
-                    "/img/projects/tco/Desktop.mp4"
+                    "/img/projects/kure/consulta_por.mp4",
+                    "/img/projects/kure/consulta_por_rol.mp4",
+                    "/img/projects/kure/condicion_medicamentos.mp4",
+                    "/img/projects/kure/dias_disponibles.mp4",
+                    "/img/projects/kure/horario_disponible.mp4"
+
                 ],
-                "cover" : "/img/projects/tco/login.webp"
+                "cover" : "/img/projects/kure/KURE_IDE.webp"
             },
-            "github": "",
-            "live": "https://tutoring-center.example.com"
+            "github": "https://github.com/Patrick-beep-ui/KURE",
+            "live": ""
         },
         {
-            "id": "kure-dsl",
-            "title": "KURE DSL",
-            "description": "A web application for managing tutoring sessions, student progress, and scheduling.",
-            "technologies": ["React", "Node.js", "Express", "MySQL"],
-            "categories": ["Full Stack", "Education"],
+            "id": "news-emailer",
+            "title": "News Emailer",
+            "description": "A fully automated news platform built around AI-driven content processing and personalized information retrieval. Originally implemented as an N8N workflow, the system uses a custom Google Programmable Search Engine to aggregate news, and integrates AI to filter, summarize, and translate content, and delivers personalized daily email digests.",
+            "technologies": ["React", "Typescript", "Laravel", "MySQL", "Gemini API"],
+            "categories": ["Full Stack", "AI Integration"],
             "media": {
                 "images": [
-                    "/img/projects/tco/login.webp",
-                    "/img/projects/tco/profile.webp",
-                    "/img/projects/tco/users.webp",
-                    "/img/projects/tco/calendar.webp",
-                    "/img/projects/tco/sessions_pool.webp"
+                    "/img/projects/news/home.webp",
+                    "/img/projects/news/categories.webp",
+                    "/img/projects/news/my_news.webp",
+                    "/img/projects/news/cc_recipients.webp",
+                    "/img/projects/news/users.webp",
+                    "/img/projects/news/email.webp"
                 ],
-                "videos": [
-                    "/img/projects/tco/Desktop.mp4"
-                ],
-                "cover" : "/img/projects/tco/login.webp"
+                "cover" : "/img/projects/news/home.webp"
             },
-            "github": "",
-            "live": "https://tutoring-center.example.com"
+            "github": "https://github.com/Patrick-beep-ui/Emails_Project"
+        },
+        {
+            "id": "avatars",
+            "title": "Dynamic Avatars",
+            "description": "Institutional AI video avatar platform designed to deliver interactive, knowledge-driven digital assistants. The system integrates third-party avatar providers to generate and serve realistic video avatars, while exposing dedicated endpoints to manage structured knowledge sources used to train and update their responses.",
+            "technologies": ["React", "Typescript", "Laravel", "MySQL", "Heygen", "D-ID"],
+            "categories": ["Full Stack", "AI Integration"],
+            "media": {
+                "images": [
+                    "/img/projects/avatars/avatars.webp",
+                    "/img/projects/avatars/avatar_conversation.webp",
+                    "/img/projects/avatars/avatar_suggestions.webp",
+                    "/img/projects/avatars/avatar_info.webp"
+                ],
+                "cover" : "/img/projects/avatars/avatars.webp"
+            },
+            "github": "https://github.com/Abyss-Jc/avatars-project"
+        },
+        {
+            "id": "ecommerce",
+            "title": "E-Commerce Platform",
+            "description": "E-commerce platform for furniture retail featuring product browsing, shopping cart functionality, and secure user authentication. Designed as a responsive, user-centered system, it streamlines the purchasing process while ensuring consistent handling of user and order data on the backend.",
+            "technologies": ["React", "Laravel", "MySQL"],
+            "categories": ["Full Stack"],
+            "media": {
+                "images": [
+                    "/img/projects/ecommerce/hero.webp",
+                    "/img/projects/ecommerce/homepage.webp",
+                    "/img/projects/ecommerce/catalog.webp",
+                    "/img/projects/ecommerce/cart.webp",
+                    "/img/projects/ecommerce/product_info.webp",
+                    "/img/projects/ecommerce/orders.webp"
+                ],
+                "cover" : "/img/projects/ecommerce/hero.webp"
+            },
+            "github": "https://github.com/Patrick-beep-ui/E-Commerce"
+        },
+        {
+            "id": "course-scheduling-system",
+            "title": "Course Scheduling System",
+            "description": "Web application to manage academic information for an educational institution. The system includes functionalities for both registrar and admin roles, handling data such as rooms, buildings, majors, courses, students, professors, student schedules, course rosters, enrollments, and terms.",
+            "technologies": ["React", "Node.js", "Express", "MySQL"],
+            "categories": ["Full Stack"],
+            "media": {
+                "images": [
+                    "/img/projects/course_scheduling/majors.webp",
+                    "/img/projects/course_scheduling/faculty.webp",
+                    "/img/projects/course_scheduling/faculty_courses.webp",
+                    "/img/projects/course_scheduling/registar.webp",
+                    "/img/projects/course_scheduling/schedules.webp",
+                    "/img/projects/course_scheduling/schedule_item.webp",
+                    "/img/projects/course_scheduling/student_schedule.webp"
+                ],
+                "cover" : "/img/projects/course_scheduling/majors.webp"
+            },
+            "github": "https://github.com/Patrick-beep-ui/course_scheduling_system"
         }
     ]
 }
