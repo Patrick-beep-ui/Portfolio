@@ -121,6 +121,77 @@
                 "cover" : "/img/projects/course_scheduling/majors.webp"
             },
             "github": "https://github.com/Patrick-beep-ui/course_scheduling_system"
+        },
+        {
+            "id": "universo-del-techo",
+            "title": "El Universo del Techo",
+            "description": "Business website developed for a Puerto Rican roofing contractor as part of a professional web development role.",
+            "technologies": ["Wordpress", "Elementor"],
+            "categories": ["Websites"],
+            "media": {
+                "images": [
+                    "/img/projects/websites/universo-del-techo/hero.webp",
+                    "/img/projects/websites/universo-del-techo/servicios.webp",
+                    "/img/projects/websites/universo-del-techo/sellado.webp",
+                    "/img/projects/websites/universo-del-techo/contacto.webp"
+                ],
+                "cover" : "/img/projects/websites/universo-del-techo/hero.webp"
+            },
+            "live": "https://www.eluniversodeltechopr.com/"
+        },
+        {
+            "id": "loop-experiences",
+            "title": "Loop Experiences",
+            "description": "Business website developed for a Puerto Rican eco-tourism and recreational mobility company as part of a professional web development role.",
+            "technologies": ["Wordpress", "Elementor"],
+            "categories": ["Websites"],
+            "media": {
+                "images": [
+                    "/img/projects/websites/loop-experiences/hero.webp",
+                    "/img/projects/websites/loop-experiences/info.webp",
+                    "/img/projects/websites/loop-experiences/about.webp",
+                    "/img/projects/websites/loop-experiences/explore.webp"
+
+                ],
+                "cover" : "/img/projects/websites/loop-experiences/hero.webp"
+            },
+            "live": "https://loop-experience.com/"
+        },
+        {
+            "id": "mdiaz-contractor",
+            "title": "M Diaz Contractor LLC",
+            "description": "Business website developed for a Puerto Rican marine and structural construction contractor as part of a professional web development role.",
+            "technologies": ["Wordpress", "Elementor"],
+            "categories": ["Websites"],
+            "media": {
+                "images": [
+                    "/img/projects/websites/mdiaz-contractor/hero.webp",
+                    "/img/projects/websites/mdiaz-contractor/about.webp",
+                    "/img/projects/websites/mdiaz-contractor/service.webp",
+                    "/img/projects/websites/mdiaz-contractor/faq.webp"
+
+                ],
+                "cover" : "/img/projects/websites/mdiaz-contractor/hero.webp"
+            },
+            "live": "https://mdiazcontractor.com/"
+        },
+        {
+            "id": "el-gabinete-elegante",
+            "title": "El Gabinete Elegante",
+            "description": "Business website developed for a Puerto Rican custom cabinetry and interior design company as part of a professional web development role.",
+            "technologies": ["Wordpress", "Elementor"],
+            "categories": ["Websites"],
+            "media": {
+                "images": [
+                    "/img/projects/websites/el-gabinete-elegante/hero.webp",
+                    "/img/projects/websites/el-gabinete-elegante/about.webp",
+                    "/img/projects/websites/el-gabinete-elegante/about-us.webp",
+                    "/img/projects/websites/el-gabinete-elegante/gallery.webp"
+
+                ],
+                "cover" : "/img/projects/websites/el-gabinete-elegante/hero.webp"
+            },
+            "live": "https://elgabineteelegantepr.com/"
         }
     ]
 }
