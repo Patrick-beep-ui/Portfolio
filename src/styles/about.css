@@ -51,3 +51,22 @@
     font-size: 1.4rem;
     line-height: 1;
 }
+
+@media (max-width: 900px) {
+    .about-container {
+        flex-direction: column;
+        padding: 60px 24px;
+    }
+
+    .about-info, .about-image {
+        width: 100%;
+    }
+
+    .about-image {
+        height: 450px;
+        object-fit: contain !important;
+        margin-left: 0px !important;
+        margin-top: 40px !important;
+        width: 100% !important;
+    }
+}
