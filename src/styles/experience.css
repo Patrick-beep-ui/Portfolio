@@ -103,4 +103,20 @@
   .experience-tab.active {
     border-bottom: 2px solid var(--green-bright);
   }
+
+  @media (max-width: 600px) {
+    .experience-details .role-title {
+      font-size: 28px;
+    }
+    .experience-tab {
+      font-size: 16px;
+      word-spacing: 5px;
+    }
+  }
+
+  @media (max-width: 480px) {
+    .experience-details .role-title {
+      font-size: 24px;
+    }
+  }
 }

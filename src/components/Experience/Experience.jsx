@@ -26,7 +26,6 @@ const Experience = () => {
       <h2 className="section-heading">Experience</h2>
 
       <div className="experience-content">
-        {/* LEFT TABS */}
         <div className="experience-tabs">
           {experience.map((job, index) => (
             <button
@@ -43,7 +42,7 @@ const Experience = () => {
 
         <div className={`experience-details ${isAnimating  ? "fade-out" : "fade-in"}`}>
 
-          {/* CASE: COMPANY WITH MULTIPLE ROLES */}
+          {/* company with multiple roles */}
           {activeJob.roles ? (
             activeJob.roles.map((role, idx) => (
               <div key={idx} className="experience-role">
@@ -64,7 +63,7 @@ const Experience = () => {
               </div>
             ))
           ) : (
-            /* CASE: SINGLE ROLE COMPANY */
+            /* single role company */
             <>
               <h4 className="role-title">{activeJob.position}</h4>
               <p className="role-date">
