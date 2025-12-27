@@ -98,7 +98,7 @@ img {
   }
 }
 
-@media (max-width: 500px) {
+@media (max-width: 480px) {
   .section {
     padding: 80px 30px;
   }
