@@ -27,7 +27,7 @@
             "id": "kure-dsl",
             "title": "KURE DSL",
             "description": "Web application designed to manage university clinic operations such as consultations, medical conditions, medications, and inventory. It leverages a custom language designed specifically for this clinic domain to enforce domain rules and constraints, ensuring consistent, rule-driven behavior and easier policy updates.",
-            "technologies": ["React", "Typescript" ,"Laravel", "Python", "MySQL"],
+            "technologies": ["Next.js", "Typescript" ,"Laravel", "Python", "MySQL"],
             "categories": ["Full Stack"],
             "media": {
                 "images": [
@@ -192,6 +192,83 @@
                 "cover" : "/img/projects/websites/el-gabinete-elegante/hero.webp"
             },
             "live": "https://elgabineteelegantepr.com/"
+        },
+        {
+            "id": "turing-machine",
+            "title": "Turing Machine Simulator",
+            "description": "Turing Machine simulator with a single and multitape representation that shows the process of encrypting words using Vigenere Cipher",
+            "technologies": ["React"],
+            "categories": ["Frontend", "Computer Science"],
+            "media": {
+                "images": [
+                    "/img/projects/turing-machine/input.webp",
+                    "/img/projects/turing-machine/encryption.webp",
+                    "/img/projects/turing-machine/table.webp",
+                    "/img/projects/turing-machine/states.webp",
+                    "/img/projects/turing-machine/multi_tape.webp"
+
+                ],
+                "cover" : "/img/projects/turing-machine/input.webp"
+            },
+            "github": "https://github.com/Patrick-beep-ui/Vigenere_Cipher_Turing_Machine"
+        },
+        {
+            "id": "sign-language",
+            "title": "Sign Language Recognition",
+            "description": "LSTM Deep Learning Model Python Based Sign Language Detection project to classify American Sign Language (ASL) phrases like hello, goodbye, and thanks from real time image recognition.",
+            "technologies": ["Python", "TensorFlow", "Keras", "OpenCV", "MediaPipe"],
+            "categories": ["Computer Science"],
+            "media": {
+                "images": [
+                    "/img/projects/sign_language/hello.webp",
+                    "/img/projects/sign_language/iloveyou.webp",
+                    "/img/projects/sign_language/thanks.webp"
+
+                ],
+                "videos": [
+                    "/img/projects/sign_language/demo.mp4"
+                ],
+                "cover" : "/img/projects/sign_language/sign_language_recognition.webp"
+            },
+            "github": "https://github.com/Patrick-beep-ui/Sign_Language_Detection_Main"
+        },
+        {
+            "id": "spotify-guard",
+            "title": "Spotify Guard",
+            "description": "Real-time, multi-process system designed to monitor, analyze, and control music playback on the Spotify desktop application. The system automatically skips undesired artists using parallel processes that detect the currently playing track, compare it against dynamic user-defined rules, and send system-level skip commands when necessary. ",
+            "technologies": ["Python", "Multiprocessing", "Psutil", "pywin32", "Ctypes"],
+            "categories": ["Computer Science"],
+            "media": {
+                "images": [
+                    "/img/projects/spotify_guard/logs.webp",
+                    "/img/projects/spotify_guard/architecture.webp"
+
+                ],
+                "videos": [
+                    "/img/projects/spotify_guard/demo.mp4"
+                ],
+                "cover" : "/img/projects/spotify_guard/logs.webp"
+            },
+            "github": "https://github.com/Patrick-beep-ui/Spotify_Guard"
+        },
+        {
+            "id": "abc-interpreter",
+            "title": "ABC Language Interpreter",
+            "description": "Interpreter for a custom language featuring lexical analysis, parsing, symbol table management, arithmetic expressions, and semantic error detection.",
+            "technologies": ["C", "Flex", "Bison"],
+            "categories": ["Computer Science"],
+            "media": {
+                "images": [
+                    "/img/projects/compiler/symbol_table.webp",
+                    "/img/projects/compiler/program.webp",
+                    "/img/projects/compiler/vocabulary.webp",
+                    "/img/projects/compiler/grammar.webp",
+                    "/img/projects/compiler/ast.webp"
+
+                ],
+                "cover" : "/img/projects/compiler/symbol_table.webp"
+            },
+            "github": "https://github.com/Patrick-beep-ui/ABC_Compiler"
         }
     ]
 }
