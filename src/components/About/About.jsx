@@ -40,7 +40,7 @@ const About = () => {
                         marginLeft: '20px',
                         marginTop: '100px',
                     }}
-                    aria-label={img.alt_text}
+                    
                 />
             ))}
         </section>
