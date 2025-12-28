@@ -157,6 +157,10 @@
         font-size: 36px;
     }
 
+    .hero-content {
+        min-height: 335px;
+    }
+
     .hero-subtitle {
         font-size: 1.1rem;
     }

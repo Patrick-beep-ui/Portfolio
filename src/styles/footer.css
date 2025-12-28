@@ -1,0 +1,21 @@
+.footer {
+    width: 100%;
+    padding: 20px 0;
+    background-color: var(--color-surface);
+    color: var(--color-text);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    font-size: 1.1rem;
+    text-align: center;
+}
+
+.footer-icon {
+    width: 28px;
+    height: 28px;
+}
+
+.footer p {
+    margin-top: 8px;
+}
