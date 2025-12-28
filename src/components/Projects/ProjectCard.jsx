@@ -21,13 +21,13 @@ const ProjectCard = ({ project }) => {
         {/* Links */}
         <div className="project-links">
           {github && (
-            <a href={github} target="_blank" rel="noopener noreferrer" id="github-link">
-              <FaGithub />
+            <a href={github} target="_blank" rel="noopener noreferrer" id="github-link" aria-label={`View GitHub repository for ${title}`}>
+              <FaGithub title={`GitHub repository for ${title}`} />
             </a>
           )}
           {live && (
-            <a href={live} target="_blank" rel="noopener noreferrer">
-              <FaExternalLinkAlt />
+            <a href={live} target="_blank" rel="noopener noreferrer" aria-label={`View live demo of ${title}`}>
+              <FaExternalLinkAlt title={`Live demo of ${title}`} />
             </a>
           )}
         </div>
