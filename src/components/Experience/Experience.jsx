@@ -65,7 +65,7 @@ const Experience = () => {
           ) : (
             /* single role company */
             <>
-              <h4 className="role-title">{activeJob.position}</h4>
+              <h3 className="role-title">{activeJob.position}</h3>
               <p className="role-date">
                 {activeJob.startDate} – {activeJob.endDate}
               </p>
