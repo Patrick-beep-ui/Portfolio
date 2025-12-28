@@ -2,8 +2,13 @@
     "about_info": [
         {
             "title": "About me",
-            "description_1": "I’m a 21-year-old Software Engineering graduate from Keiser University, holding a Bachelor of Science in Software Engineering, originally from Masaya, Nicaragua. I enjoy building modern web applications that combine clean design with solid functionality, working comfortably on both the front end and the back end.",
-            "description_2": "I’m a fast learner who values teamwork, clear communication, and thoughtful problem-solving. I enjoy collaborating with others, taking initiative when needed, and continuously improving my skills through hands-on projects. Outside of coding, I like playing videogames, football and spending time with my friends and family, which helps me stay balanced and motivated.",    
+            "description_1": "I’m a 21-year-old Software Engineering graduate from ",
+            "description_1_link": {
+            "text": "Keiser University",
+            "url": "https://www.keiseruniversity.edu.ni/"
+            },
+            "description_1_cont": ", holding a Bachelor of Science in Software Engineering, originally from Masaya, Nicaragua. I enjoy building modern web applications that combine clean design with solid functionality, working comfortably on both the front end and the back end.",
+            "description_2": "I’m a fast learner who values teamwork, clear communication, and thoughtful problem-solving. Outside of coding, I like playing videogames, football and spending time with my friends and family, which helps me stay balanced and motivated.",    
             "technologies": [
                 "React",
                 "Node.js",

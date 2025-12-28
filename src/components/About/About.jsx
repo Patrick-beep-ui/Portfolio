@@ -8,7 +8,19 @@ const About = () => {
             {about.about_info.map((section, index) => (
                 <div className='about-info'>
                     <h2 className='section-heading'>{section.title}</h2>
-                    <p className='text'>{section.description_1}</p>
+                    <p className='text'>
+                    {section.description_1}
+                    <a
+                        href={section.description_1_link.url}
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        className="highlight-link"
+                    >
+                        {section.description_1_link.text}
+                    </a>
+                    {section.description_1_cont}
+                    </p>
+
                     <Technologies technologies={section.technologies} />
                     <p className='text'>{section.description_2}</p>
                 </div>

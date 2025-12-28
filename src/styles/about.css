@@ -16,6 +16,17 @@
     width: 60%;
 }
 
+.highlight-link {
+    color: var(--color-accent);
+    font-weight: 600;
+    text-decoration: none;
+}
+
+.highlight-link:hover {
+    color: #53a8ff; 
+}
+
+
 .technologies {
     margin: 24px 0;
 }
