@@ -6,7 +6,7 @@
             "title": "Tutoring Center Online",
             "description": "Multi-platform solution to automate and streamline tutoring session management across web, desktop, and mobile platforms. The system provides tailored experiences and handles session booking, user management, and profile  management for different user groups. The application includes data analysis features, such as administrative reports and KPI indicators for tutors. ",
             "technologies": ["React", "Node.js", "Express", "MySQL"],
-            "categories": ["Full Stack"],
+            "categories": ["Full Stack", "Automation"],
             "media": {
                 "images": [
                     "/img/projects/tco/login.webp",
@@ -52,7 +52,7 @@
             "title": "News Emailer",
             "description": "A fully automated news platform built around AI-driven content processing and personalized information retrieval. Originally implemented as an N8N workflow, the system uses a custom Google Programmable Search Engine to aggregate news, and integrates AI to filter, summarize, and translate content, and delivers personalized daily email digests.",
             "technologies": ["React", "Typescript", "Laravel", "MySQL", "Gemini API"],
-            "categories": ["Full Stack", "AI Integration"],
+            "categories": ["Full Stack", "AI Integration", "Automation"],
             "media": {
                 "images": [
                     "/img/projects/news/home.webp",
@@ -269,6 +269,25 @@
                 "cover" : "/img/projects/compiler/symbol_table.webp"
             },
             "github": "https://github.com/Patrick-beep-ui/ABC_Compiler"
+        },
+        {
+            "id": "leads-generation",
+            "title": "Leads Generation Scraper",
+            "description": "Internal lead generation tool using Python that automatically collects business leads from Google Maps, extracts contact and company information, and exports structured lead lists in CSV and Excel formats. The more you scroll, the more leads you get.",
+            "technologies": ["Python", "Playwright", "Pandas"],
+            "categories": ["Automation","Computer Science"],
+            "media": {
+                "images": [
+                    "/img/projects/scrapper/scrapper_results.webp",
+                    "/img/projects/scrapper/leads_b1.webp",
+                    "/img/projects/scrapper/leads_b3.webp"
+                ],
+                "videos": [
+                    "/img/projects/scrapper/leads_demo.mp4"
+                ],
+                "cover" : "/img/projects/scrapper/scrapper_results.webp"
+            },
+            "github": "https://github.com/Patrick-beep-ui/Leads-Generation-Scrapper"
         }
     ]
 }
