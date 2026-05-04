@@ -29,7 +29,7 @@ const ProjectGallery = ({ project, isOpen, onClose }) => {
   return (
     <div className="gallery-overlay" onClick={onClose}>
       <div
-        className="gallery-modal"
+        className={`gallery-modal ${project.display}-gallery`}
         onClick={e => e.stopPropagation()}
       >
         <button className="gallery-close" onClick={onClose}>

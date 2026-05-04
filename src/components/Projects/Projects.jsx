@@ -3,10 +3,10 @@ import "../../styles/projects.css";
 import projectsData from "../../data/projects.json";
 import ProjectsList from "./ProjectsList";
 
+const projects = projectsData.projects;
+
 const Projects = () => {
   const [activeCategory, setActiveCategory] = useState("All");
-
-  const projects = projectsData.projects;
 
   const categories = [
     "All",

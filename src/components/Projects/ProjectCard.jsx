@@ -8,7 +8,7 @@ const ProjectCard = ({ project }) => {
 
   return (
     <>
-    <article className="project-card" onClick={() => setOpen(true)}>
+    <article className={`project-card ${project?.display}-projejct`} onClick={() => setOpen(true)}>
       
       {/* Cover */}
       <div className="project-cover">

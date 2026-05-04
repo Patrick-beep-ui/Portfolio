@@ -2,11 +2,36 @@
     "title": "Projects",
     "projects": [
         {
+            "id": "attira",
+            "title": "Attira",
+            "description": "ATTIRA is an AI-powered fashion assistant designed to help people decide what to wear and what to buy with ease. By using data from your real wardrobe and personal style preferences, it generates personalized outfits that reduce daily decision fatigue. The platform can suggest clothing and accessories, plan outfits based on weather and occasions, and continuously improve its recommendations through user data.",
+            "technologies": ["React", "Typescript", "Supabase", "Gemini API"],
+            "categories": ["Full Stack","AI Integration"],
+            "display": "mobile",
+            "media": {
+                "images": [
+                    "/img/projects/attira/attira_feed_mockup.webp",
+                    "/img/projects/attira/attira_profile_mockup.webp",
+                    "/img/projects/attira/attira_generate_outfit_module_mockup.webp",
+                    "/img/projects/attira/attira_outfit_generation_result_mockup.webp",
+                    "/img/projects/attira/attira_setup_profile_style_step_mockup.webp",
+                    "/img/projects/attira/attira_wardrobe_mockup.webp"
+                ],
+                "videos": [
+                    "/img/projects/attira/attira_walkthrough.mp4"
+                ],
+                "cover" : "/img/projects/attira/attira_feed_cover.webp"
+            },
+            "github": "",
+            "live": "https://app.attiraai.com/"
+        },
+        {
             "id": "tutoring-center-online",
             "title": "Tutoring Center Online",
             "description": "Multi-platform solution to automate and streamline tutoring session management across web, desktop, and mobile platforms. The system provides tailored experiences and handles session booking, user management, and profile  management for different user groups. The application includes data analysis features, such as administrative reports and KPI indicators for tutors. ",
             "technologies": ["React", "Node.js", "Express", "MySQL"],
             "categories": ["Full Stack", "Automation"],
+            "display": "desktop",
             "media": {
                 "images": [
                     "/img/projects/tco/login.webp",
@@ -29,6 +54,7 @@
             "description": "Web application designed to manage university clinic operations such as consultations, medical conditions, medications, and inventory. It leverages a custom language designed specifically for this clinic domain to enforce domain rules and constraints, ensuring consistent, rule-driven behavior and easier policy updates.",
             "technologies": ["Next.js", "Typescript" ,"Laravel", "Python", "MySQL"],
             "categories": ["Full Stack"],
+            "display": "desktop",
             "media": {
                 "images": [
                     "/img/projects/kure/KURE_IDE.webp",
@@ -53,6 +79,7 @@
             "description": "A fully automated news platform built around AI-driven content processing and personalized information retrieval. Originally implemented as an N8N workflow, the system uses a custom Google Programmable Search Engine to aggregate news, and integrates AI to filter, summarize, and translate content, and delivers personalized daily email digests.",
             "technologies": ["React", "Typescript", "Laravel", "MySQL", "Gemini API"],
             "categories": ["Full Stack", "AI Integration", "Automation"],
+            "display": "desktop",
             "media": {
                 "images": [
                     "/img/projects/news/home.webp",
@@ -72,6 +99,7 @@
             "description": "Institutional AI video avatar platform designed to deliver interactive, knowledge-driven digital assistants. The system integrates third-party avatar providers to generate and serve realistic video avatars, while exposing dedicated endpoints to manage structured knowledge sources used to train and update their responses.",
             "technologies": ["React", "Typescript", "Laravel", "MySQL", "Heygen", "D-ID"],
             "categories": ["Full Stack", "AI Integration"],
+            "display": "desktop",
             "media": {
                 "images": [
                     "/img/projects/avatars/avatars.webp",
@@ -89,6 +117,7 @@
             "description": "E-commerce platform for furniture retail featuring product browsing, shopping cart functionality, and secure user authentication. Designed as a responsive, user-centered system, it streamlines the purchasing process while ensuring consistent handling of user and order data on the backend.",
             "technologies": ["React", "Laravel", "MySQL"],
             "categories": ["Full Stack"],
+            "display": "desktop",
             "media": {
                 "images": [
                     "/img/projects/ecommerce/hero.webp",
@@ -108,6 +137,7 @@
             "description": "Web application to manage academic information for an educational institution. The system includes functionalities for both registrar and admin roles, handling data such as rooms, buildings, majors, courses, students, professors, student schedules, course rosters, enrollments, and terms.",
             "technologies": ["React", "Node.js", "Express", "MySQL"],
             "categories": ["Full Stack"],
+            "display": "desktop",
             "media": {
                 "images": [
                     "/img/projects/course_scheduling/majors.webp",
@@ -121,6 +151,30 @@
                 "cover" : "/img/projects/course_scheduling/majors.webp"
             },
             "github": "https://github.com/Patrick-beep-ui/course_scheduling_system"
+        },
+                {
+            "id": "attira-website",
+            "title": "Attira Official Website",
+            "description": "Attira Official Website is the public-facing platform designed to showcase the Attira app and make the product easily discoverable to new users. Built with a strong focus on performance and search engine optimization (SEO), the site ranks effectively for queries like “Attira AI,” ensuring high visibility and organic reach.",
+            "technologies": ["Next.js", "Tailwind CSS"],
+            "categories": ["Websites"],
+            "display": "mobile",
+            "media": {
+                "images": [
+                    "/img/projects/websites/attira/attira_website_hero.webp",
+                    "/img/projects/websites/attira/attira_website_how_it_works_section.webp",
+                    "/img/projects/websites/attira/attira_website_mission_section.webp",
+                    "/img/projects/websites/attira/attira_website_capabilities_section.webp",
+                    "/img/projects/websites/attira/attira_website_team_section.webp",
+                    "/img/projects/websites/attira/attira_website_our_blog_section.webp"
+                ],
+                "videos": [
+                    "/img/projects/websites/attira/attira_website_demo.mp4"
+                ],
+                "cover" : "/img/projects/websites/attira/attira_website_hero.webp"
+            },
+            "github": "",
+            "live": "https://attiraai.com/"
         },
         {
             "id": "universo-del-techo",
