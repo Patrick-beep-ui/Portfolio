@@ -198,7 +198,27 @@
             "github": "",
             "live": "https://www.tarekbuyshouses.com/"
         },
-
+        {
+            "id": "tbh-tampa",
+            "title": "TBH Tampa",
+            "description": "TBH Tampa is the Tarek Buys Houses website for the Tampa market. Built with a strong focus on performance and search engine optimization (SEO), the site ranks effectively for queries like “TBH Tampa”, or “Tarek Buys Houses Tampa” ensuring high visibility and organic reach. Includes different pages tailored to different life situations such as Inherited, Damaged, Divorce, Foreclosure, and Distressed properties.",
+            "technologies": ["HTML", "Tailwind CSS", "Javascript"],
+            "categories": ["Websites"],
+            "display": "desktop",
+            "media": {
+                "images": [
+                    "/img/projects/websites/tbh-tampa/tbh-tampa-cover.webp",
+                    "/img/projects/websites/tbh-tampa/tbh-tampa-situation-section.webp",
+                    "/img/projects/websites/tbh-tampa/tbh-tampa-credibility-sections.webp",
+                    "/img/projects/websites/tbh-tampa/tbh-tampa-divorce-hero.webp",
+                    "/img/projects/websites/tbh-tampa/tbh-tampa-damage-situation-section.webp",
+                    "/img/projects/websites/tbh-tampa/tbh-tampa-cta-section.webp"
+                ],
+                "cover" : "/img/projects/websites/tbh-tampa/tbh-tampa-cover.webp"
+            },
+            "github": "",
+            "live": "https://tbhtampa.com/"
+        },
         {
             "id": "universo-del-techo",
             "title": "El Universo del Techo",
