@@ -157,7 +157,7 @@
             "title": "Attira Official Website",
             "description": "Attira Official Website is the public-facing platform designed to showcase the Attira app and make the product easily discoverable to new users. Built with a strong focus on performance and search engine optimization (SEO), the site ranks effectively for queries like “Attira AI,” ensuring high visibility and organic reach.",
             "technologies": ["Next.js", "Tailwind CSS"],
-            "categories": ["Websites"],
+            "categories": ["Websites", "Frontend"],
             "display": "mobile",
             "media": {
                 "images": [
@@ -181,7 +181,7 @@
             "title": "Tarek Buys Houses Main Website",
             "description": "This is Tarek Buys Houses main lead generation platform website. It dynamically renders 500+ hyper-local landing pages across 30+ markets and 17 life situations, each with AI-enhanced SEO content for long-tail local queries. Features include Google Gemini AI chat, GoHighLevel CRM integration with full UTM tracking, and reCAPTCHA v3 protection. It includes and an admin dashboard with Kanban and table boards, and analytics view.",
             "technologies": ["Next.js", "Typescript", "Tailwind CSS", "Supabase", "Gemini API"],
-            "categories": ["Websites", "AI Integration", "Frontend"],
+            "categories": ["Websites", "AI Integration", "Full Stack"],
             "display": "desktop",
             "media": {
                 "images": [
@@ -203,7 +203,7 @@
             "title": "TBH Tampa",
             "description": "TBH Tampa is the Tarek Buys Houses website for the Tampa market. Built with a strong focus on performance and search engine optimization (SEO), the site ranks effectively for queries like “TBH Tampa”, or “Tarek Buys Houses Tampa” ensuring high visibility and organic reach. Includes different pages tailored to different life situations such as Inherited, Damaged, Divorce, Foreclosure, and Distressed properties.",
             "technologies": ["HTML", "Tailwind CSS", "Javascript"],
-            "categories": ["Websites"],
+            "categories": ["Websites", "Frontend"],
             "display": "desktop",
             "media": {
                 "images": [
@@ -218,6 +218,27 @@
             },
             "github": "",
             "live": "https://tbhtampa.com/"
+        },
+                {
+            "id": "nectar-de-lumiere",
+            "title": "Néctar de Lumière Official Website",
+            "description": "International market entry strategy for a Nicaraguan artisanal hot honey brand project (chile de árbol-infused) targeting Costa Rica and South Florida. The project covers export logistics, regulatory compliance (CAFTA-DR, FDA, MINSA/SENASA), competitive positioning, and a forward-contract hedging strategy to lock in production costs and offer stable B2B pricing to U.S. buyers.",
+            "technologies": ["HTML", "CSS", "Javascript"],
+            "categories": ["Websites", "Frontend"],
+            "display": "desktop",
+            "media": {
+                "images": [
+                    "/img/projects/websites/nectar-de-lumiere/nectar-de-lumiere-hero.webp",
+                    "/img/projects/websites/nectar-de-lumiere/nectar-de-lumiere-presentation.webp",
+                    "/img/projects/websites/nectar-de-lumiere/nectar-de-lumiere-origin.webp",
+                    "/img/projects/websites/nectar-de-lumiere/nectar-de-lumiere-formats.webp",
+                    "/img/projects/websites/nectar-de-lumiere/nectar-de-lumiere-quality.webp",
+                    "/img/projects/websites/nectar-de-lumiere/nectar-de-lumiere-advantage.webp"
+                ],
+                "cover" : "/img/projects/websites/nectar-de-lumiere/nectar-de-lumiere-hero.webp"
+            },
+            "github": "",
+            "live": "https://nectar-de-lumiere.netlify.app/"
         },
         {
             "id": "universo-del-techo",
