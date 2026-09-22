@@ -63,16 +63,22 @@
             ]
           },
           {
-            "company": "SkillCloud LLC",
-            "position": "Full Stack Engineer & Lead Generation Specialist",
-            "startDate": "March 2026",
-            "endDate": "Today",
-            "responsibilities": [
-              "Develop and maintain multiple production-grade web applications for Tarek Buys Houses real estate business to enhance lead generation by building full-stack features across landing pages, admin dashboards, and lead management systems.",
-              "Design and implement lead capture pipelines that reliably sync form submissions to CRM and database services simultaneously, including error handling and monitoring to ensure no leads are lost in production.",
-              "Configure and manage end-to-end conversion tracking across multi-market ad campaigns, integrating tag management systems to measure form submissions, phone calls, and click events with verified attribution.",
-              "Build and maintain automated test suites and CI/CD pipelines to enforce code quality and validate functionality before every production deployment.",
-              "Lead the ground-up architecture and development of a new client-facing web platform, owning decisions across database design, backend integrations, performance optimization, and deployment infrastructure."
+            "company": "VOOV",
+            "roles": [
+              {
+                "department": "Tarek Buys Houses",
+                "position": "Full Stack Engineer & Lead Generation Specialist",
+                "startDate": "March 2026",
+                "endDate": "Today",
+                "responsibilities": [
+                  "Develop and maintain multiple production-grade real estate web applications to enhance lead generation by building full-stack features  using Next.js, React, TypeScript, Tailwind CSS, Supabase, and third-party APIs across landing pages, admin dashboards, and lead management systems.",
+                  "Design and implement reliable lead-capture workflows that synchronize form submissions with GoHighLevel and database services, incorporating validation, error logging, monitoring, and conversion tracking.",
+                  "Developed AI-assisted publishing workflows using Supabase Edge Functions, Storage, scheduled automation, and Gemini powered text and image generation.",
+                  "Built and expanded an internal operations dashboard for reviewing leads, investigating failed submissions, managing blogs, testimonials, advertisements, and website content, and monitoring marketing analytics across markets.",
+                  "Build and maintain automated test suites and CI/CD pipelines to enforce code quality and validate functionality before every production deployment.",
+                  "Lead the ground-up architecture and development of a new client-facing web platform, owning decisions across database design, backend integrations, performance optimization, and deployment infrastructure."
+            ]
+              }
             ]
         }
     ]
