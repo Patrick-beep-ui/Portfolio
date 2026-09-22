@@ -218,7 +218,7 @@
                 "cover" : "/img/projects/websites/tbh-tampa/tbh-tampa-cover.webp"
             },
             "github": "",
-            "live": "https://tbhtampa.com/"
+            "live": "https://tbhtampa-preview.netlify.app/"
         },
                 {
             "id": "nectar-de-lumiere",
