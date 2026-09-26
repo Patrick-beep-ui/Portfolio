@@ -5,7 +5,7 @@
             "id": "tbh-main",
             "title": "Tarek Buys Houses",
             "description": "This is Tarek Buys Houses main lead generation platform website. It dynamically renders 500+ hyper-local landing pages across 30+ markets and 17 life situations, each with AI-enhanced SEO content for long-tail local queries. Features include Google Gemini AI chat, GoHighLevel CRM integration with full UTM tracking, and reCAPTCHA v3 protection. It includes and an admin dashboard with Kanban and table boards, and analytics view.",
-            "technologies": ["Next.js", "Typescript", "Tailwind CSS", "Supabase", "Gemini API"],
+            "technologies": ["Next.js", "Typescript", "Tailwind CSS", "Prisma" ,"Supabase", "Gemini API"],
             "categories": ["Websites", "AI Integration", "Full Stack"],
             "display": "desktop",
             "media": {
