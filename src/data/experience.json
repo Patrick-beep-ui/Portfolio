@@ -69,14 +69,14 @@
                 "department": "Tarek Buys Houses",
                 "position": "Full Stack Engineer & Lead Generation Specialist",
                 "startDate": "March 2026",
-                "endDate": "Today",
+                "endDate": "September 2026",
                 "responsibilities": [
-                  "Develop and maintain multiple production-grade real estate web applications to enhance lead generation by building full-stack features  using Next.js, React, TypeScript, Tailwind CSS, Supabase, and third-party APIs across landing pages, admin dashboards, and lead management systems.",
-                  "Design and implement reliable lead-capture workflows that synchronize form submissions with GoHighLevel and database services, incorporating validation, error logging, monitoring, and conversion tracking.",
+                  "Served as the primary web developer for Tarek Buys Houses and led frontend engineering for its main website and TBH Tampa. Took the main website from an early prototype through final development and production launch.",
+                  "Built the technical foundation of the company’s web lead-generation platform and set up the production infrastructure it still uses to deploy and run the site, including the team’s shared code repositories, hosting and deployment workflows, and production database environment.",
+                  "Designed and implemented lead-capture workflows that synchronize form submissions with GoHighLevel and database services, incorporating validation, error logging, monitoring, and conversion tracking.",
                   "Developed AI-assisted publishing workflows using Supabase Edge Functions, Storage, scheduled automation, and Gemini powered text and image generation.",
                   "Built and expanded an internal operations dashboard for reviewing leads, investigating failed submissions, managing blogs, testimonials, advertisements, and website content, and monitoring marketing analytics across markets.",
-                  "Build and maintain automated test suites and CI/CD pipelines to enforce code quality and validate functionality before every production deployment.",
-                  "Lead the ground-up architecture and development of a new client-facing web platform, owning decisions across database design, backend integrations, performance optimization, and deployment infrastructure."
+                  "Built and maintained automated test suites and CI/CD pipelines to validate changes before production deployments."
             ]
               }
             ]

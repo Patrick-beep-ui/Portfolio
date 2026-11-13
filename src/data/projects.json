@@ -4,7 +4,7 @@
         {
             "id": "tbh-main",
             "title": "Tarek Buys Houses",
-            "description": "This is Tarek Buys Houses main lead generation platform website. It dynamically renders 500+ hyper-local landing pages across 30+ markets and 17 life situations, each with AI-enhanced SEO content for long-tail local queries. Features include Google Gemini AI chat, GoHighLevel CRM integration with full UTM tracking, and reCAPTCHA v3 protection. It includes and an admin dashboard with Kanban and table boards, and analytics view.",
+            "description": "As the primary web developer for Tarek Buys Houses, I led frontend engineering, completed development of the main website, and launched it into production. I built the foundation of its lead-generation platform and set up the production infrastructure the company still uses, from shared code repositories and deployment workflows to hosting and the production database. The platform serves 500+ local landing pages across 30+ markets and integrates lead capture, GoHighLevel, conversion tracking, and an internal operations dashboard.",
             "technologies": ["Next.js", "Typescript", "Tailwind CSS", "Prisma" ,"Supabase", "Gemini API"],
             "categories": ["Websites", "AI Integration", "Full Stack"],
             "display": "desktop",
@@ -224,7 +224,7 @@
         {
             "id": "tbh-tampa",
             "title": "TBH Tampa",
-            "description": "TBH Tampa is the Tarek Buys Houses website for the Tampa market. Built with a strong focus on performance and search engine optimization (SEO), the site ranks effectively for queries like “TBH Tampa”, or “Tarek Buys Houses Tampa” ensuring high visibility and organic reach. Includes different pages tailored to different life situations such as Inherited, Damaged, Divorce, Foreclosure, and Distressed properties.",
+            "description": "I led frontend development for Tarek Buys Houses’ Tampa website and built five landing pages tailored to different seller situations, including inheritance, property damage, divorce, foreclosure, and distressed properties. I added conversion tracking and later consolidated the Tampa site into the main Tarek Buys Houses platform.",
             "technologies": ["HTML", "Tailwind CSS", "Javascript"],
             "categories": ["Websites", "Frontend"],
             "display": "desktop",
