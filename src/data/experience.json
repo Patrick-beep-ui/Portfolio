@@ -69,7 +69,7 @@
             "startDate": "March 2026",
             "endDate": "September 2026",
             "responsibilities": [
-              "Served as the primary web developer for Tarek Buys Houses. Led frontend engineering across the main website, landing pages, market pages, and internal applications, with a focus on performance, technical SEO, lead generation, and conversion optimization. Took the main website from an early prototype through final development and production launch using Next.js, React, and TypeScript.",
+              "Served as the primary web developer for Tarek Buys Houses. Led frontend engineering across the main website, market pages, and internal applications. Took the main website from an early prototype through final development and production launch using Next.js, React, and TypeScript.",
               "Built the technical foundation of the production infrastructure that Tarek Buys Houses still uses to deploy and run its main website and internal applications. Set up shared code repositories, hosting, deployment workflows, and the production data layer using Prisma and PostgreSQL.",
               "Designed and implemented lead-capture workflows that synchronize form submissions with GoHighLevel and database services, incorporating validation, error logging, monitoring, and conversion tracking.",
               "Built an automated blog publishing pipeline that generates a new post and its accompanying images with Gemini every day, then publishes the post automatically. Used scheduled serverless functions and cloud storage to run the workflow.",
